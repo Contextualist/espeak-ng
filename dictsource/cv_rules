@@ -1,0 +1,85 @@
+.L01 и ӳ ы у ĕ ӑ е а // vowels
+
+.group а
+       а       a
+.group ӑ
+       ӑ       @
+.group б
+       б       b
+.group в
+       в       v#
+.group г
+       г       g
+.group д
+       д       d
+.group е
+       е       E
+.group ё
+       ё       jo
+.group ӗ
+       ӗ       @.  // close-mid central unrounded vowel, can't find the symbol
+.group ж
+       ж       z.
+.group з
+       з       z
+.group и
+       и       i
+.group й
+       й       j
+.group к
+       к       k
+  L01) к (L01  g
+.group л
+       л       l
+.group м
+       м       m
+.group н
+       н       n
+.group о
+       о       o
+.group п
+       п       p
+  L01) п (L01  b
+.group р
+       р       R
+.group с
+       с       s
+  L01) с (L01  z
+.group ҫ
+       ҫ       S.
+  L01) ҫ (L01  Z.
+.group т
+       т       t
+  L01) т (L01  d
+.group у
+       у       u
+.group ӳ
+       ӳ       y
+.group ф
+       ф       f
+.group х
+       х       X
+  L01) х (L01  Q
+.group ц
+       ц       ts
+  L01) ц (L01  dz
+.group ч
+       ч       tS.
+  L01) ч (L01  dZ.
+.group ш
+       ш       s.
+  L01) ш (L01  z.
+.group щ
+       щ       SS
+.group ъ
+       ъ
+.group ы
+       ы       u-
+.group ь
+       ь
+.group э
+       э       e
+.group ю
+       ю       ju
+.group я
+       я       ja

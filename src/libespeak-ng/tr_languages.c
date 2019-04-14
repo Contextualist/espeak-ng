@@ -571,6 +571,11 @@ Translator *SelectTranslator(const char *name)
 		tr->langopts.numbers = 1;
 	}
 		break;
+	case L('c', 'v'): // Chuvash
+	{
+		tr->langopts.numbers = NUM_THOUSAND_AND | NUM_ROMAN | NUM_1900;
+	}
+		break;
 	case L('c', 'y'): // Welsh
 	{
 		static const short stress_lengths_cy[8] = { 170, 220, 180, 180, 0, 0, 250, 270 };

@@ -1704,6 +1704,9 @@ include ph_english_wi
 phonemetable af base1
 include ph_afrikaans
 
+phonemetable cv base2
+include ph_chuvash
+
 phonemetable cy base1
 include ph_welsh
 

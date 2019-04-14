@@ -305,6 +305,7 @@ phsource/phonemes.stamp: \
 	phsource/ph_bulgarian \
 	phsource/ph_myanmar \
 	phsource/ph_catalan \
+	phsource/ph_chuvash \
 	phsource/ph_consonants \
 	phsource/ph_croatian \
 	phsource/ph_czech \
@@ -465,6 +466,7 @@ dictionaries: \
 	espeak-ng-data/bs_dict \
 	espeak-ng-data/ca_dict \
 	espeak-ng-data/cs_dict \
+	espeak-ng-data/cv_dict \
 	espeak-ng-data/cy_dict \
 	espeak-ng-data/da_dict \
 	espeak-ng-data/de_dict \
@@ -581,6 +583,9 @@ espeak-ng-data/ca_dict: dictsource/ca_list dictsource/ca_rules dictsource/ca_ext
 
 cs: espeak-ng-data/cs_dict
 espeak-ng-data/cs_dict: dictsource/cs_list dictsource/cs_rules dictsource/cs_extra dictsource/cs_emoji
+
+cv: espeak-ng-data/cv_dict
+espeak-ng-data/cv_dict: dictsource/cv_list dictsource/cv_rules
 
 cy: espeak-ng-data/cy_dict
 espeak-ng-data/cy_dict: dictsource/cy_list dictsource/cy_rules dictsource/cy_extra dictsource/cy_emoji

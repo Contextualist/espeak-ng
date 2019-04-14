@@ -1,0 +1,33 @@
+phoneme @.
+  vwl
+  ipa ɘ
+endphoneme
+
+phoneme r
+  vwl
+  ipa r
+endphoneme
+
+phoneme S.
+  vls alp sib frc
+  //voicingswitch Z.
+  ipa ɕ
+endphoneme
+
+phoneme Z.
+  vcd alp sib frc
+  //voicingswitch S.
+  ipa ʑ
+endphoneme
+
+phoneme tS.
+  vls alp sib afr
+  //voicingswitch tZ.
+  ipa tɕ
+endphoneme
+
+phoneme dZ.
+  vcd alp sib afr
+  //voicingswitch tS.
+  ipa dʑ
+endphoneme
