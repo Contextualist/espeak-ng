@@ -1,3 +1,43 @@
+// letter name
+
+а	a
+ӑ	@
+б	b@
+в	v#@
+г	g@
+д	d@
+е	E
+ё	jo
+ӗ	@.
+ж	z.@
+з	z@
+и	i
+й	j@
+к	k@
+л	l@
+м	m@
+н	n@
+о	o
+п	p@
+р	R@
+с	s@
+ҫ	S.@
+т	t@
+у	u
+ӳ	y
+ф	f@
+х	X@
+ц	ts@
+ч	tS.@
+ш	s.@
+щ	S.S.@
+ъ	Xu-t@l@X||palli
+ы	u-
+ь	S.EmS.El@.X||palli
+э	e
+ю	ju
+я	ja
+
 // numeric
 
 _1	p@.RRE
